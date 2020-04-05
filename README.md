@@ -18,8 +18,9 @@ npm install -g parcel-bundler
 parcel index.html
 ```
 It will bundle all the html, css and js files and deploy them on a local server on port 1234
+
 6. Open browser and type url http://localhost:1234/
 
-## That's it!
+### That's it!
 
-## Have a great day!
+### Have a great day!
